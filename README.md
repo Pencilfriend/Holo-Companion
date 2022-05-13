@@ -5,4 +5,4 @@ If running in python download Holo Companion #Ver Python *Includes the map creat
 
 If running the compiled version for windows download Holo Companion #Ver Windows.exe *Windows may flag this as a virus.
 
-If people send me more maps and icons that they make I'll but them in the respective folders in this archive.
+If people send me more maps and icons that they make, I'll put them in the respective folders in this archive.
